@@ -1,5 +1,8 @@
 # ransomware-simulation-detection
 
+![Uploading ransomware (1).png…]()
+
+
 DEMOSHIELD V2 - Instructions
 ==================================
 1. bash generate_bg.sh   (cree /root/ransom_bg.png)
